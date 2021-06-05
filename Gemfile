@@ -48,6 +48,3 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 
-# 以下を追加
-.DS_Store
-/vendor/bundle
